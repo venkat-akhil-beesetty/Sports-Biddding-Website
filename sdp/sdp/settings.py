@@ -138,8 +138,8 @@ MEDIA_URL='/media/'
 EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'shajahansayyed001@gmail.com'
-EMAIL_HOST_PASSWORD = 'Shajahan@123'
+EMAIL_HOST_USER = '1234@gmail.com'
+EMAIL_HOST_PASSWORD = 'xyz@123'
 
 MESSAGE_TAGS = {
         messages.DEBUG: 'alert-secondary',
